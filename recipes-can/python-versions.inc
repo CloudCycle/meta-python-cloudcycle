@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python-python-can = "4.0.0"
