@@ -13,4 +13,4 @@ S = "${WORKDIR}/python3-can-4.0.0"
 
 RDEPENDS_${PN} = ""
 
-inherit setuptools
+inherit setuptools3
