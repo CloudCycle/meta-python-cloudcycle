@@ -9,7 +9,7 @@ SRC_URI = "https://files.pythonhosted.org/packages/1f/f7/a643cba269d59e108fe4c18
 SRC_URI[md5sum] = "c8f91ec0856723eb41be012408870a9e"
 SRC_URI[sha256sum] = "59d92846ffb981e634e9e0f2d14a6b4967a875e3869bd2ba168c92c4db6b8b5d"
 
-S = "${WORKDIR}/python-can-4.0.0"
+S = "${WORKDIR}/python3-can-4.0.0"
 
 RDEPENDS_${PN} = ""
 

@@ -1,1 +1,1 @@
-PREFERRED_VERSION_python-python-can = "4.0.0"
+PREFERRED_VERSION_python3-python-can = "4.0.0"
