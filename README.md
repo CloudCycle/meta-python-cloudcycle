@@ -1,7 +1,7 @@
 # meta-python-cloudcycle
 python packages for cloudbox bba v3
 
-## List of required library 
+## List of required libraries 
 ```
 pyserial==3.5
 python-can==4.0.0
