@@ -2,6 +2,7 @@
 python packages for cloudbox bba v3
 
 ## List of required library 
+```
 pyserial==3.5
 python-can==4.0.0
 pynmea2==1.15.0
@@ -20,6 +21,7 @@ tuna
 pylint
 numpy==1.22.4
 git+ssh://git@github.com/CloudCycle/device_to_backend_schema.git
+```
 
 ## How to create recipes
 Recipes to include specific versions of python packages. Packages are generated via pipoe. See https://blog.emumba.com/how-to-make-python-packages-part-of-yocto-generated-image-6d4af098eebd
