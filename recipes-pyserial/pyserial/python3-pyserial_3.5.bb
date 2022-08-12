@@ -2,7 +2,7 @@
 SUMMARY = "Python Serial Port Extension"
 HOMEPAGE = "https://github.com/pyserial/pyserial"
 AUTHOR = "Chris Liechti <cliechti@gmx.net>"
-LICENSE = "BSD"
+LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=520e45e59fc2cf94aa53850f46b86436"
 
 SRC_URI = "https://files.pythonhosted.org/packages/1e/7d/ae3f0a63f41e4d2f6cb66a5b57197850f919f59e558159a4dd3a818f5082/pyserial-3.5.tar.gz"
