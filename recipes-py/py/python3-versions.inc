@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-py = "1.11.0"

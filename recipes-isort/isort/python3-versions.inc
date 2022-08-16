@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-isort = "5.10.1"

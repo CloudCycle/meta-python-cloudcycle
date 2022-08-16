@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-pyfiglet = "0.8.post1"

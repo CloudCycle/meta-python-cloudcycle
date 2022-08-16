@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-platformdirs = "2.5.02"

@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-numpy = "1.22.4"

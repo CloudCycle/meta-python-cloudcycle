@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-paho-mqtt = "1.5.1"

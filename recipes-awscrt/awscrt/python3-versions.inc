@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-awscrt = "0.14.0"

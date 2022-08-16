@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-astroid = "1.12.0"

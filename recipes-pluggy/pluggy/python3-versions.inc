@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-pluggy = "1.0.0"

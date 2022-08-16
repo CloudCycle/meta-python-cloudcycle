@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-pytest = "7.1.2"

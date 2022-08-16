@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-pynmea2 = "1.15.0"

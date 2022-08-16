@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-dnspython = "2.2.1"

@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-fastavro = "1.3.0"

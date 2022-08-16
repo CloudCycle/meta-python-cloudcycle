@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-packaging = "21.3"

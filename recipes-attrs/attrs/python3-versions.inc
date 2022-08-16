@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-attrs = "22.1.0"

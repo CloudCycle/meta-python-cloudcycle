@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-mccabe = "0.7.0"

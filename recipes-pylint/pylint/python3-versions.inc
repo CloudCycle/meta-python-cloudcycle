@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-pylint = "2.14.5"

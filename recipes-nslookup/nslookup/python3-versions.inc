@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-nslookup = "1.3.0"
